@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ijinleifeoluwa</h1>
-<h3 align="center">A passionate Front-end developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Ijinleifeoluwa Daniel Shadare</h1>
+<h3 align="center">A Front-End Developer, aspiring Blockchain Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelensbender&label=Profile%20views&color=0e75b6&style=flat" alt="thelensbender" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thelensbender_" target="blank"><img src="https://img.shields.io/twitter/follow/thelensbender_?logo=twitter&style=for-the-badge" alt="thelensbender_" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript in relation to web development**
+- 🌱 I’m currently learning **JavaScript for Front-End development**
 
-- 💬 Ask me about **HTML, CSS, React.js**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **ijinleifeshadare@gmail.com**
 
@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thelensbender_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelensbender_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelensbender" height="30" width="40" /></a>
 <a href="https://instagram.com/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thelensbender" height="30" width="40" /></a>
 </p>
 
