@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/thelensbender_" target="blank"><img src="https://img.shields.io/twitter/follow/thelensbender_?logo=twitter&style=for-the-badge" alt="thelensbender_" /></a> </p>
 
-- 🔭 I’m currently working on **a text to speech app using python tkinter**
-
 - 👨‍💻 All of my projects are available at [https://thelensbender.netlify.app/](https://thelensbender.netlify.app/)
 
 - 📫 How to reach me: **ijinleifeshadare@gmail.com**
