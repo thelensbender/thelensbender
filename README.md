@@ -1,30 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ijinleifeoluwa Daniel Shadare</h1>
-<h3 align="center">A Web3 Front-End Developer.</h3>
+# Hi 👋, I'm I'm Ijinleifeoluwa Daniel Shadare
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thelensbender&label=Profile%20views&color=0e75b6&style=flat" alt="thelensbender" /> </p>
+### Web3 Front-End Developer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thelensbender" alt="thelensbender" /></a> </p>
+- 🌱 I'm currently learning **TypeScipt**
 
-<p align="left"> <a href="https://twitter.com/thelensbender_" target="blank"><img src="https://img.shields.io/twitter/follow/thelensbender_?logo=twitter&style=for-the-badge" alt="thelensbender_" /></a> </p>
+- 💬 Ask me about **React, JavaScript, Next.js, TypeScript, Tailwind CSS, Solidity, Ether.js, Python**
 
-- 👨‍💻 All of my projects are available at [https://thelensbender.netlify.app/](https://thelensbender.netlify.app/)
+- 📫 How to reach me **ijinleifeshadare@gmail.com**
 
-- 📫 How to reach me: **ijinleifeshadare@gmail.com**
+- ⚡ Fun fact **I love skating. It is the most interesting sport ever! lol**
 
-- ⚡ Fun fact: **I love skating. It is the most interesting sport ever! lol**
+- 👨‍💻 All of my projects are available at **[https://thelensbender.netlify.app/](https://thelensbender.netlify.app/)**
+
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1bSnLAKoRV21VNPKSVDPzWEc23acXV5nbIixif-qJ_tc/edit?usp=sharing](https://docs.google.com/document/d/1bSnLAKoRV21VNPKSVDPzWEc23acXV5nbIixif-qJ_tc/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thelensbender_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelensbender_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelensbender" height="30" width="40" /></a>
+<a href="https://github.com/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="thelensbender" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Ijinleifeoluwa Daniel Shadare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ijinleifeoluwa Daniel Shadare" height="30" width="40" /></a>
 <a href="https://instagram.com/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thelensbender" height="30" width="40" /></a>
+<a href="https://twitter.com/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelensbender" height="30" width="40" /></a>
+<a href="https://discord.gg/thelensbender" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thelensbender" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thelensbender&show_icons=true&locale=en&layout=compact" alt="thelensbender" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thelensbender&show_icons=true&locale=en" alt="thelensbender" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thelensbender&" alt="thelensbender" /></p>
