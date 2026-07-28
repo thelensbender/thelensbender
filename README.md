@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ijinleifeoluwa Daniel Shadare</h1>
-<h3 align="center">A Front-End Developer, aspiring Blockchain Developer.</h3>
+<h3 align="center">A Web3 Front-End Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thelensbender&label=Profile%20views&color=0e75b6&style=flat" alt="thelensbender" /> </p>
 
@@ -9,11 +9,7 @@
 
 - 🔭 I’m currently working on **a text to speech app using python tkinter**
 
-- 🌱 I’m currently learning **JavaScript for Front-End development**
-
 - 👨‍💻 All of my projects are available at [https://thelensbender.netlify.app/](https://thelensbender.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me: **ijinleifeshadare@gmail.com**
 
