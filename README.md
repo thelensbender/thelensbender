@@ -1,8 +1,8 @@
 # Hi 👋, I'm I'm Ijinleifeoluwa Daniel Shadare
 
-### Web3 Front-End Developer.
+### Front-End Developer.
 
-- 🌱 I'm currently learning **TypeScipt**
+- 🌱 I'm currently learning **Node.js**
 
 - 💬 Ask me about **React, JavaScript, Next.js, TypeScript, Tailwind CSS, Solidity, Ether.js, Python**
 
