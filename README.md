@@ -10,9 +10,9 @@
 
 - ⚡ Fun fact **I love skating. It is the most interesting sport ever! lol**
 
-- 👨‍💻 All of my projects are available at **[https://thelensbender.netlify.app/](https://thelensbender.netlify.app/)**
+- 👨‍💻 All of my projects are available on **[my Portfolio](https://danielshadare.vercel.app/)**
 
-- 📄 Know about my experiences **[https://docs.google.com/document/d/1bSnLAKoRV21VNPKSVDPzWEc23acXV5nbIixif-qJ_tc/edit?usp=sharing](https://docs.google.com/document/d/1bSnLAKoRV21VNPKSVDPzWEc23acXV5nbIixif-qJ_tc/edit?usp=sharing)**
+- 📄 Know about my experiences, **[click here](https://docs.google.com/document/d/1bSnLAKoRV21VNPKSVDPzWEc23acXV5nbIixif-qJ_tc/edit?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
