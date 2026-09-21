@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Node.js**
 
-- 💬 Ask me about **React, JavaScript, Next.js, TypeScript, Tailwind CSS, Solidity, Ether.js, Python**
+- 💬 Ask me about **React, JavaScript, Next.js, TypeScript, Tailwind CSS, Solidity, Python**
 
 - 📫 How to reach me **ijinleifeshadare@gmail.com**
 
