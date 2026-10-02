@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, JavaScript, Next.js, TypeScript, Tailwind CSS, Solidity, Python**
 
-- 📫 How to reach me **ijinleifeshadare@gmail.com**
+- 📫 You can reach me through **[my email](mailto:daniel.shadare.dev@gmail.com)**
 
 - ⚡ Fun fact **I love skating. It is the most interesting sport ever! lol**
 
